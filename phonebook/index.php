@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 content_header text-center align-middle">
-                    <h1>Contact Management</h1>
+                    <h1 style="color:white;">Contact Management</h1>
                 </div>
             </div>
             <div class="row">
